@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "myresume": "./index.js"
+    "your-command-here": "./index.js"
   },
 
   "author": "",
