@@ -1,16 +1,17 @@
 {
   "name": "jayanth-g-resume",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "My first resume in node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "your-command-here": "./index.js"
+    "my-resume": "./index.js"
   },
-
   "author": "",
-  "license": "ISC"
-  
+  "license": "ISC",
+  "dependencies": {
+    "jayanth-g-resume": "^1.2.0"
+  }
 }
